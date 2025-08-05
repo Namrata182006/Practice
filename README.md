@@ -1,2 +1,2 @@
 # Practice
-Here i am learning how to use git and github..
+Here i am learning how to use git and github.
